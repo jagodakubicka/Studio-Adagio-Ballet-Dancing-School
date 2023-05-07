@@ -234,7 +234,7 @@ nav li a:hover::after {
   border-radius: 20px;
   display: flex;
   box-shadow: 0 5px 15px rgba(255, 255, 255, 0.274);
-  background-image: url(/photos/oferta-img/popup-bg-img.jpg);
+  background-image: url(./photos/oferta-img/popup-bg-img.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }

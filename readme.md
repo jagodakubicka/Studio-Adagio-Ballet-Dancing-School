@@ -1,6 +1,6 @@
 # STUDIO ADAGIO - Ballet Dancing School
 
-![Design preview for the Studio Adagio webpage](./photos/Studio-Adagio-screenshot.png)
+![Design preview for the Studio Adagio webpage](../photos/Studio-Adagio-screenshot.png)
 
 ## About project
 
